@@ -1,7 +1,7 @@
 name: Vorvick Productions
 favicon: null
-layout_spectrum: 0.578749286243692
-typography_spectrum: 0.37869873037561774
+layout_spectrum: 0.34894
+typography_spectrum: 0.66666
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.011747581651434302
-  lightness: 0.5211419952102005
-  saturation: 0.6743105403147638
-  rhythmicContrast: 0.6501667292322963
+    - '#ffffff'
+    - '#000000'
+    - '#292b27'
+    - '#7690a9'
+    - '#d4d8db'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
