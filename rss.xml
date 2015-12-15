@@ -4,21 +4,21 @@
         <description><![CDATA[Portland's Metaphoric Game Studio]]></description>
         <link>https://thegrid.ai/vorvick-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 02:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 02:43:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vorvick-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dice Photo]]></title>
-            <description><![CDATA[<article><h1>Dice Photo</h1><p>Photo from Flickr, used under license</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3350b427d31c94617f9b96e815adaa076d4fa350.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dice Photo</h1><p>Photo from Flickr, used under license</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad35cf5af96263cc7511a278bef82e7873dd316e.jpg"></article>]]></description>
             <link>https://thegrid.ai/vorvick-productions/dice-photo/index.html</link>
             <guid isPermaLink="false">99171b56-f006-4ee5-ba8e-891f92f5266b</guid>
             <pubDate>Tue, 15 Dec 2015 02:42:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slider Bars]]></title>
-            <description><![CDATA[<article><h1>Slider Bars</h1><p>In designing a website using The Grid, I've had to come to a realization which seemed meaningful for my game design. In many games, numbers progress in a very static series of options, moving from one to another with hardly any gradient in between. Perhaps in designing games (like RPGs) that actively are tuned by the players, there should be more acknowledgment of gradients. Ideally, the designer can provide some open-ended questions that allow a group to adjust the game to fit their own needs. "Do you want to play this game in the style of a Homeric epic? If so, don't ask questions such as 'why' as often." These adjustments may help in guaranteeing that the group playing finds the ideal version of the game for their purposes.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Slider Bars</h1><p>null</p></article>]]></description>
             <link>https://thegrid.ai/vorvick-productions/slider-bars/index.html</link>
             <guid isPermaLink="false">396c94d4-15d2-44c4-b9d4-ee2c6fc9a296</guid>
-            <pubDate>Tue, 15 Dec 2015 02:33:44 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 02:43:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
